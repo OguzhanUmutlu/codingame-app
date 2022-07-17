@@ -1,0 +1,10 @@
+{
+  "name": "codingame-app",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "electron index.js"
+  },
+  "dependencies": {
+    "electron": "^19.0.7"
+  }
+}
